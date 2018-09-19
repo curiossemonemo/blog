@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hack the Cura"
+title                    : "Hack the Semonemo"
 title_separator          : "-"
-name                     : "Cura"
+name                     : "Semonemo"
 description              : "An amazing website for Developing and Hacking"
 url                      : "https://curiossemonemo.github.io"
 baseurl                  : "/blog"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "semonemo"
+  name             : "Semonemo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Developing & Hacking"
   location         : "Daejeon, South Korea"
